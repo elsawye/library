@@ -39,7 +39,7 @@ class library extends CI_Controller {
 		}
 		else
 		{
-			//disply an error to the user
+			//disply an error to the user.
 			echo "wrong username or password";
 		}
 	}
